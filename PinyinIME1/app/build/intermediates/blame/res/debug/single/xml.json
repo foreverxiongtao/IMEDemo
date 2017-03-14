@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\demo\\PinyinIME1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\skb_sym1.xml",
+        "source": "F:\\demo\\PinyinIME1\\app\\src\\main\\res\\xml\\skb_sym1.xml"
+    },
+    {
+        "merged": "F:\\demo\\PinyinIME1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\skb_smiley.xml",
+        "source": "F:\\demo\\PinyinIME1\\app\\src\\main\\res\\xml\\skb_smiley.xml"
+    },
+    {
+        "merged": "F:\\demo\\PinyinIME1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\skb_phone.xml",
+        "source": "F:\\demo\\PinyinIME1\\app\\src\\main\\res\\xml\\skb_phone.xml"
+    },
+    {
+        "merged": "F:\\demo\\PinyinIME1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\skb_qwerty.xml",
+        "source": "F:\\demo\\PinyinIME1\\app\\src\\main\\res\\xml\\skb_qwerty.xml"
+    },
+    {
+        "merged": "F:\\demo\\PinyinIME1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\skb_template1.xml",
+        "source": "F:\\demo\\PinyinIME1\\app\\src\\main\\res\\xml\\skb_template1.xml"
+    },
+    {
+        "merged": "F:\\demo\\PinyinIME1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\skb_sym2.xml",
+        "source": "F:\\demo\\PinyinIME1\\app\\src\\main\\res\\xml\\skb_sym2.xml"
+    },
+    {
+        "merged": "F:\\demo\\PinyinIME1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "F:\\demo\\PinyinIME1\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "F:\\demo\\PinyinIME1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\method.xml",
+        "source": "F:\\demo\\PinyinIME1\\app\\src\\main\\res\\xml\\method.xml"
+    }
+]
